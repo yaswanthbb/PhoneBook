@@ -33,3 +33,6 @@ The following technologies were used in building this app:
 * React
 * Semantic UI React
 * Axios
+
+# Acknowledgements
+- This app was built as part of a learning exercise in React
