@@ -35,4 +35,4 @@ The following technologies were used in building this app:
 * Axios
 
 # Acknowledgements
-- This app was built as part of a learning exercise in React
+- This app was built as part of learning React
