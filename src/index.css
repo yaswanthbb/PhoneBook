@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Andika&family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,700;1,400;1,700&display=swap');
+.container{
+  background-color: #FBFBFB;
+  padding-bottom: 15px;
+}
+.form-control{
+  border-radius: 25px !important;
+  height: 50px;
+  background-color: #ECF2FF !important;
+}
+.heading{
+  color: #00235B;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: 'roboto';
+  padding-top: 10px;
+  padding-bottom: 0px;
+}
+.caption{
+  color: grey;
+  padding: 15px;
+  padding-top: 0px;
+} 
+input{
+  width: 80% !important;
+}
+.item{
+  margin-bottom: 10px;
+}
