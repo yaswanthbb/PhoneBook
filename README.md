@@ -35,4 +35,6 @@ The following technologies were used in building this app:
 * Axios
 
 # Acknowledgements
-- This app was built as part of learning React
+- This project was created as a practice exercise for the Full Stack Open course.
+
+
